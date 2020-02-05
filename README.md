@@ -18,7 +18,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/libra/libra)) - A global cryptocurrency built by Facebook.
   
 * [Parity](https://www.parity.io/)
-  ([GitHub](https://github.com/paritytech/)) - Firefox Browser.
+  ([GitHub](https://github.com/paritytech/)) - Ethereum Client.
 
 #### Consulting
 
