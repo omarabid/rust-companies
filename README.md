@@ -9,22 +9,48 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Technology
 
-
 * [Fly](https://fly.io)
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
-* [Brave](https://brave.com/)
+* [Brave](https://brave.com)
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
 * [Mozilla](https://www.mozilla.org)
   ([GitHub](https://github.com/mozilla)) - Firefox Browser.
-
+* [360dialog](http://www.360dialog.com) - Most of our service consumers are written with Rust.
 
 #### Cryptocurrencies
 
 * [Libra](https://libra.org)
   ([GitHub](https://github.com/libra/libra)) - A global cryptocurrency built by Facebook.
-  
 * [Parity](https://www.parity.io)
-  ([GitHub](https://github.com/paritytech/)) - Ethereum Client.
+  ([GitHub](https://github.com/paritytech)) - Ethereum Client.
+
+#### Automation | CI/CD
+
+* [Chef](https://www.chef.io)
+  ([GitHub](https://github.com/chef/delivery-cli)) - Chef lets you develop, deploy and manage infrastructure, run-time environments and applications.
+* [EVO](https://evo.company) - We have development tools, containerization, monitoring and orchestration systems in Rust.
+* [slowtec](http://www.slowtec.de) - Our robust & reliable automation systems are entirely written in Rust.
+
+#### Cloud | Hosting
+
+* [Delimiter](https://www.delimiter.com) - Rust powers our bare metal provisioning system.
+
+#### Fintech
+
+* [TenX](https://tenx.tech) - Building a secure and scalable distributed payments system in Rust.
+
+#### Machine Learning
+
+* [IamBot](http://iambot.ai) - Our high-performance data acquisition is fully implemented using Rust. Besides that, we are also using Rust for our API endpoints that communicate with internal systems.
+
+#### Embedded systems | Hardware
+
+* [System76](https://system76.com)
+  ([GitHub](https://github.com/system76)) - As a Linux-based computer-manufacture, much of our infrastructure and desktop Linux projects are written in Rust. 
+
+#### Internet Service Provider
+
+* [Yomura Fiber](https://yomurafiber.com) - Rust powers our GPON provisioning and statistic gathering.
   
 #### Consulting
 
