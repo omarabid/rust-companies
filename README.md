@@ -9,7 +9,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Technology
 
-* [Fly](https://fly.io) - Globally distributed reverse-proxy and app hosting.
+* [Fly](https://fly.io)
+  ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
 * [Mozilla](https://www.mozilla.org)
   ([GitHub](https://github.com/mozilla)) - Firefox Browser.
 
