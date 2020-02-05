@@ -12,6 +12,9 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Mozilla](https://www.mozilla.org)
   ([GitHub](https://github.com/mozilla)) - Firefox Browser.
 
+* [Brave](https://brave.com/)
+  ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
+
 #### Cryptocurrencies
 
 * [Libra](https://libra.org)
