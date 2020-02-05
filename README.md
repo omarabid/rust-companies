@@ -19,6 +19,11 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   
 * [Parity](https://www.parity.io/)
   ([GitHub](https://github.com/paritytech/)) - Ethereum Client.
+  
+#### Security
+
+* [Red Sift](https://redsift.com)
+  ([GitHub](https://github.com/redsift/ingraind)) - Container monitoring with eBPF.
 
 #### Consulting
 
