@@ -25,7 +25,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   
 * [Parity](https://www.parity.io)
   ([GitHub](https://github.com/paritytech/)) - Ethereum Client.
-
+  
 #### Consulting
 
 * [Ferrous Systems](https://ferrous-systems.com)
@@ -34,10 +34,16 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
  * [Integer 32](https://www.integer32.com)
   ([GitHub](https://github.com/integer32llc)) - Integer 32 is a consultancy that delivers high-quality Rust code.
 
+#### Security
+
+* [Red Sift](https://redsift.com)
+  ([GitHub](https://github.com/redsift/ingraind)) - Container monitoring with eBPF.
+
 #### WIP
 
 * [Discord](https://discordapp.com)
   ([1](https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3), [2](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)) - Platform designed for communities.
+
 
 ## Contributing
 
