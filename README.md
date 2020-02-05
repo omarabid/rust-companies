@@ -15,6 +15,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
 * [Discord](https://discordapp.com)
   ([1](https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3), [2](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)) - Communication Platform designed for communities.
+* [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
 * [Fly](https://fly.io)
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
 * [Mozilla](https://www.mozilla.org)
@@ -38,8 +39,10 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Chef](https://www.chef.io)
   ([GitHub](https://github.com/chef/delivery-cli)) - Chef lets you develop, deploy and manage infrastructure, run-time environments and applications.
 * [Collective Sense](https://collective-sense.com) - We use Rust to implement data collectors and processors in our network monitoring and security analysis software. Our product needs to be both secure and extremely fast which makes Rust a perfect fit.
+* [CoreOS](https://coreos.com) - Tools shipped within the Container Linux distribution as well as internal tooling including documentation transformation and validation.
 * [EVO](https://evo.company) - We have development tools, containerization, monitoring and orchestration systems in Rust.
 * [Gremlin](https://www.gremlin.com) - Safely and efficiently causing controlled chaos.
+* [OneSignal](https://onesignal.com)([1](https://onesignal.com/blog/rust-at-onesignal)) - High volume, cross platform push notification delivery.
 * [npm](http://www.npmjs.com)
   ([GitHub](https://github.com/npm)) - Replacing C and rewriting performance-critical bottlenecks in the registry service architecture.
 * [Sandstorm](https://sandstorm.io)([1](https://sandstorm.io/news/2016-08-09-collections-app)) - The backend of our Collections app is written in Rust.
@@ -47,10 +50,12 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [slowtec](http://www.slowtec.de) - Our robust & reliable automation systems are entirely written in Rust.
 * [VersionEye](https://www.versioneye.com)
   ([GitHub](https://github.com/VersionEye)) - We are using Rust to implement a command line tool which can identify software dependencies by their SHA values.
-* [TreeScale](https://www.treescale.com) - At TreeScale we are implemented distributed PubSub system using Rust and MIO, which gave us 8x performance on for processing and distributing Container Images
+* [tCell](https://www.tcell.io)([1](https://www.tcell.io/2017/06/agents-rust/)) - tCell's agent is built using Rust and runs in the app server as a means to collect data and block attacks.
+* [TreeScale](https://www.treescale.com) - At TreeScale we are implemented distributed PubSub system using Rust and MIO, which gave us 8x performance on for processing and distributing Container Images.
 
 #### Cloud | Hosting
 
+* [Clever Cloud](https://www.clever-cloud.com)([1](https://www.clever-cloud.com/doc/rust/rust/)) - We host Rust web applications, and a part of our infrastructure is developed in Rust.
 * [Cloudflare](https://www.cloudflare.com) - We are using Rust as a replacement for memory-unsafe languages (particularly C) and are using it in our core edge logic.
 * [Dropbox](https://www.dropbox.com)([1](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/)) - Optimizing cloud file-storage.
 * [Delimiter](https://www.delimiter.com) - Rust powers our bare metal provisioning system.
@@ -68,9 +73,11 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Algorithmia](https://algorithmia.com)
   ([GitHub](https://github.com/algorithmiaio)) - Rust algorithm development is a first-class citizen of our platform.
-* [IamBot](http://iambot.ai) - Our high-performance data acquisition is fully implemented using Rust. Besides that, we are also using Rust for our API endpoints that communicate with internal systems.
+* [Autumn](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) - Machine learning in Rust.
 * [craft.ai](http://craft.ai) - Our core machine learning engine is written in Rust.
 * [Faraday](http://faraday.io)([1](https://github.com/faradayio/credentials_to_env)) - Securely transferring credentials.
+* [IamBot](http://iambot.ai) - Our high-performance data acquisition is fully implemented using Rust. Besides that, we are also using Rust for our API endpoints that communicate with internal systems.
+* [Routific](https://routific.com) - High performance route optimization software.
 * [PolySync](https://polysync.io) - Building safety-critical runtime environments & infrastructure for autonomous vehicles.
 * [Snips](https://snips.ai) - AI assistants that are private by design.
 
@@ -96,12 +103,16 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Integer 32](https://www.integer32.com)
   ([GitHub](https://github.com/integer32llc)) - Integer 32 is a consultancy that delivers high-quality Rust code.
 
-#### Security
+#### Security | Monitoring
 
+* [AppSignal](https://appsignal.com) - Fast and robust monitoring agent for web applications.
+* [Canonical](http://www.canonical.com) - Everything from server monitoring to middleware!
 * [Distil Networks](https://www.distilnetworks.com) - We are using Rust in our low latency bot detection and mitigation platform.
 * [krypt.co](https://krypt.co)([1](https://github.com/kryptco/ssh-wire), [2](https://github.com/KryptCo/kr/tree/master/pkcs11shim)) - Shared code between iOS and Android for SSH host signature verification as well as a PKCS11 shared library.
 * [Red Sift](https://redsift.com)
   ([GitHub](https://github.com/redsift/ingraind)) - Container monitoring with eBPF.
+* [Shiftleft](https://www.shiftleft.io)([1](http://blog.shiftleft.io)) - ShiftLeft is a Silicon Valley startup employing innovative techniques to bring clarity and rigor to the security space. Our bespoke runtime security agent is written in Rust.
+* [ThreatX](https://threat-x.com) - Threat X Web Application Firewall (WAF) and central analysis engine are written in Rust, facilitating real time analysis of high bandwidth web applications.
   
 #### Governments / NGO
 
