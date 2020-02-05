@@ -21,12 +21,15 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Cryptocurrencies
 
+* [Cryptape](http://cryptape.com) - Rust makes our permissioned blockchain, CITA, faster and stronger.
 * [Libra](https://libra.org)
   ([GitHub](https://github.com/libra/libra)) - A global cryptocurrency built by Facebook.
+* [MaidSafe](http://www.maidsafe.net) - Building a decentralised data and communications network.
 * [Parity](https://www.parity.io)
   ([GitHub](https://github.com/paritytech)) - Ethereum Client.
+* [Solana](https://solana.com) - High performance blockchain, rebuilt for scale.
 * [Wildfish](https://wildfish.com) - Fast processing and importing of cryptocurrency market data.
-* [MaidSafe](http://www.maidsafe.net) - Building a decentralised data and communications network.
+
 
 #### Automation | CI/CD
 
@@ -34,6 +37,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/chef/delivery-cli)) - Chef lets you develop, deploy and manage infrastructure, run-time environments and applications.
 * [Collective Sense](https://collective-sense.com) - We use Rust to implement data collectors and processors in our network monitoring and security analysis software. Our product needs to be both secure and extremely fast which makes Rust a perfect fit.
 * [EVO](https://evo.company) - We have development tools, containerization, monitoring and orchestration systems in Rust.
+* [Gremlin](https://www.gremlin.com) - Safely and efficiently causing controlled chaos.
 * [slowtec](http://www.slowtec.de) - Our robust & reliable automation systems are entirely written in Rust.
 * [npm](http://www.npmjs.com)
   ([GitHub](https://github.com/npm)) - Replacing C and rewriting performance-critical bottlenecks in the registry service architecture.
@@ -45,13 +49,19 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Cloudflare](https://www.cloudflare.com) - We are using Rust as a replacement for memory-unsafe languages (particularly C) and are using it in our core edge logic.
 * [Delimiter](https://www.delimiter.com) - Rust powers our bare metal provisioning system.
-
+* [OVH](https://www.ovh.com)
+  ([1](https://www.ovh.com/world/a2202.paas-logs-management-ovh)) - We used Rust to build a high performance, highly available log management system.
+  
 #### Fintech
 
+* [ANIXE](http://www.anixe.pl) - Building the next generation travel services trading platform in Rust.
+* [Braintree](https://www.braintreepayments.com) - Speeding up batch processing and for small command-line utilities.
 * [TenX](https://tenx.tech) - Building a secure and scalable distributed payments system in Rust.
 
-#### Machine Learning
+#### Machine Learning | AI
 
+* [Algorithmia](https://algorithmia.com)
+  ([GitHub](https://github.com/algorithmiaio)) - Rust algorithm development is a first-class citizen of our platform.
 * [IamBot](http://iambot.ai) - Our high-performance data acquisition is fully implemented using Rust. Besides that, we are also using Rust for our API endpoints that communicate with internal systems.
 * [craft.ai](http://craft.ai) - Our core machine learning engine is written in Rust.
 * [PolySync](https://polysync.io) - Building safety-critical runtime environments & infrastructure for autonomous vehicles.
@@ -67,6 +77,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Internet Service Provider
 
+* [Starry](https://starry.com) - Re-imagining broadband by engineering a new wireless access network and building an ecosystem of products designed to simplify and improve your connected life.
 * [Yomura Fiber](https://yomurafiber.com) - Rust powers our GPON provisioning and statistic gathering.
   
 #### Consulting
@@ -78,6 +89,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Security
 
+* [Distil Networks](https://www.distilnetworks.com) - We are using Rust in our low latency bot detection and mitigation platform.
+* [krypt.co](https://krypt.co)([1](https://github.com/kryptco/ssh-wire), [2](https://github.com/KryptCo/kr/tree/master/pkcs11shim)) - Shared code between iOS and Android for SSH host signature verification as well as a PKCS11 shared library.
 * [Red Sift](https://redsift.com)
   ([GitHub](https://github.com/redsift/ingraind)) - Container monitoring with eBPF.
   
