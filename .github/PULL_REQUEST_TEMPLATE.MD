@@ -3,7 +3,7 @@ Please review our [Contribution Guidelines](https://github.com/omarabid/rust-com
 Review your changes and complete the checklist below.
 
 - [ ] Company name
+- [ ] Company Website
 - [ ] Company description
-- [ ] Company location
 - [ ] GitHub link (if available)
 - [ ] Sorted alphabetically
