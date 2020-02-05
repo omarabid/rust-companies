@@ -24,6 +24,9 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Ferrous Systems](https://ferrous-systems.com/)
   ([GitHub](https://github.com/ferrous-systems/)) - Rust knowledge. Collected.
+  
+ * [Integer 32](https://www.integer32.com/)
+  ([GitHub](https://github.com/integer32llc)) - Integer 32 is a consultancy that delivers high-quality Rust code.
 
 ## Contributing
 
