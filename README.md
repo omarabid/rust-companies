@@ -98,6 +98,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   
 #### Consulting
 
+* [Braun Embedded](https://braun-embedded.com/)
+  ([GitHub](https://github.com/braun-embedded)) - Provides firmware development services for ARM Cortex-M microcontrollers.
 * [Ferrous Systems](https://ferrous-systems.com)
   ([GitHub](https://github.com/ferrous-systems)) - Rust knowledge. Collected.
 * [Integer 32](https://www.integer32.com)
