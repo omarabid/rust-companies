@@ -114,7 +114,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Red Sift](https://redsift.com)
   ([GitHub](https://github.com/redsift/ingraind)) - Container monitoring with eBPF.
 * [Shiftleft](https://www.shiftleft.io)([1](http://blog.shiftleft.io)) - ShiftLeft is a Silicon Valley startup employing innovative techniques to bring clarity and rigor to the security space. Our bespoke runtime security agent is written in Rust.
-* [ThreatX](https://threat-x.com) - Threat X Web Application Firewall (WAF) and central analysis engine are written in Rust, facilitating real time analysis of high bandwidth web applications.
+* [ThreatX](https://threat-x.com) - Threat X Web Application Firewall (WAF) and central analysis engine are written in Rust, facilitating real time analysis of high bandwidth web applications.      
+* [Firo Solutions](https://firosolutions.com) - Firo Solutions is a notification service that notifies the enduser about security vulnerability, they parse large amounts of data using rust     
   
 #### Governments / NGO
 
