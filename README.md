@@ -15,11 +15,13 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
 * [Discord](https://discordapp.com)
   ([1](https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3), [2](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)) - Communication Platform designed for communities.
+* [Facebook](https://www.facebook.com) ([1](https://github.com/facebookexperimental/eden)) - Facebook's primary source control system is partially written in Rust.
 * [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
 * [Fly](https://fly.io)
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
 * [Mozilla](https://www.mozilla.org)
   ([GitHub](https://github.com/mozilla), [Servo](https://servo.org)) - Building the Servo browser engine, integrating into Firefox, other projects.
+* [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
 
 #### Cryptocurrencies
 
@@ -57,7 +59,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Clever Cloud](https://www.clever-cloud.com)([1](https://www.clever-cloud.com/doc/rust/rust/)) - We host Rust web applications, and a part of our infrastructure is developed in Rust.
 * [Cloudflare](https://www.cloudflare.com) - We are using Rust as a replacement for memory-unsafe languages (particularly C) and are using it in our core edge logic.
-* [Dropbox](https://www.dropbox.com)([1](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/)) - Optimizing cloud file-storage.
+* [Dropbox](https://www.dropbox.com)([1](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/), [2](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)) - Optimizing cloud file-storage.
 * [Delimiter](https://www.delimiter.com) - Rust powers our bare metal provisioning system.
 * [OVH](https://www.ovh.com)
   ([1](https://www.ovh.com/world/a2202.paas-logs-management-ovh)) - We used Rust to build a high performance, highly available log management system.
@@ -102,6 +104,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/braun-embedded)) - Provides firmware development services for ARM Cortex-M microcontrollers.
 * [Ferrous Systems](https://ferrous-systems.com)
   ([GitHub](https://github.com/ferrous-systems)) - Rust knowledge. Collected.
+* [Immunant](https://www.immunant.com)
+  ([GitHub](https://github.com/immunant)) - Immunant specializes in translation from C to Rust and exposing legacy C/C++ through safe Rust interfaces.
 * [Integer 32](https://www.integer32.com)
   ([GitHub](https://github.com/integer32llc)) - Integer 32 is a consultancy that delivers high-quality Rust code.
 
