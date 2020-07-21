@@ -114,7 +114,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [AppSignal](https://appsignal.com) - Fast and robust monitoring agent for web applications.
 * [Canonical](http://www.canonical.com) - Everything from server monitoring to middleware!
 * [Distil Networks](https://www.distilnetworks.com) - We are using Rust in our low latency bot detection and mitigation platform.
-* [Firo Solutions](https://firosolutions.com)([1](https://github.com/firosolutions/), [2] - Firo Solutions is a notification service that notifies the enduser about security vulnerabilities, they parse large amounts of data using rust 
+* [Firo Solutions](https://firosolutions.com)([1])(https://github.com/firosolutions/) - Firo Solutions is a notification service that notifies the enduser about security vulnerabilities, they parse large amounts of data using rust 
 * [krypt.co](https://krypt.co)([1](https://github.com/kryptco/ssh-wire), [2](https://github.com/KryptCo/kr/tree/master/pkcs11shim)) - Shared code between iOS and Android for SSH host signature verification as well as a PKCS11 shared library.
 * [Red Sift](https://redsift.com)
   ([GitHub](https://github.com/redsift/ingraind)) - Container monitoring with eBPF.
