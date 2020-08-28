@@ -15,6 +15,9 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
 * [Discord](https://discordapp.com)
   ([1](https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3), [2](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)) - Communication Platform designed for communities.
+* [DungeonFog](https://www.dungeonfog.com/news/project-deios/) 
+   ([GitHub](https://github.com/dungeonfog))
+   ([Discord](https://discordapp.com/invite/Ewtsk7g))- New "Project Deios" map maker tool is written completely in rust, everything we can make opensource is hosted on our github.
 * [Facebook](https://www.facebook.com) ([1](https://github.com/facebookexperimental/eden)) - Facebook's primary source control system is partially written in Rust.
 * [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
 * [Fly](https://fly.io)
