@@ -105,6 +105,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Braun Embedded](https://braun-embedded.com/)
   ([GitHub](https://github.com/braun-embedded)) - Provides firmware development services for ARM Cortex-M microcontrollers.
+* [Ecodia](https://ecodia.de/)
+  ([GitHub](https://github.com/ecodia)) - Ecodia is a software consultancy based in munich, germany with experience in building private and public clouds. We use rust ourselves and offer rust development, training and mentorship for individuals and teams.
 * [Ferrous Systems](https://ferrous-systems.com)
   ([GitHub](https://github.com/ferrous-systems)) - Rust knowledge. Collected.
 * [Immunant](https://www.immunant.com)
