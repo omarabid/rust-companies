@@ -62,6 +62,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Clever Cloud](https://www.clever-cloud.com)([1](https://www.clever-cloud.com/doc/rust/rust/)) - We host Rust web applications, and a part of our infrastructure is developed in Rust.
 * [Cloudflare](https://www.cloudflare.com) - We are using Rust as a replacement for memory-unsafe languages (particularly C) and are using it in our core edge logic.
+* [Cloudflare Workers](https://workers.cloudflare.com/)([1](https://developers.cloudflare.com/workers/tutorials/hello-world-rust)) Deploy serverless code instantly across the globe with Rust support.
 * [Dropbox](https://www.dropbox.com)([1](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/), [2](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)) - Optimizing cloud file-storage.
 * [Delimiter](https://www.delimiter.com) - Rust powers our bare metal provisioning system.
 * [OVH](https://www.ovh.com)
