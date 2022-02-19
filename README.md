@@ -22,6 +22,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
 * [Fly](https://fly.io)
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
+* [Materialize](https://materialize.com)
+  ([GitHub](https://github.com/MaterializeInc/materialize)) - An engine for incrementally maintaining database views. Materialize core is a single binary written in Rust.
 * [Mozilla](https://www.mozilla.org)
   ([GitHub](https://github.com/mozilla), [Servo](https://servo.org)) - Building the Servo browser engine, integrating into Firefox, other projects.
 * [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
