@@ -93,7 +93,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### News | Media
 
-* [The Daily Edit](https://dailyedit.com) - A news aggregator that combines details from many sources into a single place.
+* [The Daily Edit](https://dailyedit.com) - A news aggregator that combines details from many sources into a single place. Our analysis engine and web backend are written in Rust.
 
 #### Embedded systems | Hardware | IoT
 
