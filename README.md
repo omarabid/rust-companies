@@ -91,6 +91,10 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [PolySync](https://polysync.io) - Building safety-critical runtime environments & infrastructure for autonomous vehicles.
 * [Snips](https://snips.ai) - AI assistants that are private by design.
 
+#### News | Media
+
+* [The Daily Edit](https://dailyedit.com) - A news aggregator that combines details from many sources into a single place. Our analysis engine and web backend are written in Rust.
+
 #### Embedded systems | Hardware | IoT
 
 * [49nord](https://49nord.de/rust) - 49nord develops safe and secure Industrial IoT hardware and applications using Rust.
