@@ -10,6 +10,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 #### Technology
 
 * [360dialog](http://www.360dialog.com) - Most of our service consumers are written with Rust.
+* [Amazon](https://www.amazon.com)([1](https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help/)) - Here at AWS, we love Rust, too, because it helps AWS write highly performant, safe infrastructure-level networking and other systems software.
 * [Atlassian](https://www.atlassian.com) - We use Rust in a service for analyzing petabytes of source code.
 * [Brave](https://brave.com)
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
@@ -18,12 +19,12 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [DungeonFog](https://www.dungeonfog.com/news/project-deios/) 
    ([GitHub](https://github.com/dungeonfog))
    ([Discord](https://discordapp.com/invite/Ewtsk7g))- New "Project Deios" map maker tool is written completely in rust, everything we can make opensource is hosted on our github.
-* [Facebook](https://www.facebook.com) ([1](https://github.com/facebookexperimental/eden)) - Facebook's primary source control system is partially written in Rust.
 * [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
 * [Fly](https://fly.io)
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
 * [Materialize](https://materialize.com)
   ([GitHub](https://github.com/MaterializeInc/materialize)) - An engine for incrementally maintaining database views. Materialize core is a single binary written in Rust.
+* [Meta](https://www.facebook.com) ([1](https://github.com/facebookexperimental/eden)) - Facebook's primary source control system is partially written in Rust.
 * [Mozilla](https://www.mozilla.org)
   ([GitHub](https://github.com/mozilla), [Servo](https://servo.org)) - Building the Servo browser engine, integrating into Firefox, other projects.
 * [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
