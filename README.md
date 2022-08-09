@@ -24,7 +24,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
 * [Materialize](https://materialize.com)
   ([GitHub](https://github.com/MaterializeInc/materialize)) - An engine for incrementally maintaining database views. Materialize core is a single binary written in Rust.
-* [Meta](https://www.facebook.com) ([1](https://github.com/facebookexperimental/eden)) - Facebook's primary source control system is partially written in Rust.
+* [Meta](https://www.facebook.com) ([1](https://github.com/facebookexperimental/eden),[2](https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/)) - Facebook's primary source control system is partially written in Rust.
 * [Mozilla](https://www.mozilla.org)
   ([GitHub](https://github.com/mozilla), [Servo](https://servo.org)) - Building the Servo browser engine, integrating into Firefox, other projects.
 * [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
