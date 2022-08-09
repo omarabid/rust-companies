@@ -15,7 +15,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Brave](https://brave.com)
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
 * [Discord](https://discordapp.com)
-  ([1](https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3), [2](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)) - Communication Platform designed for communities.
+  ([1](https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users), [2](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)) - Communication Platform designed for communities.
 * [DungeonFog](https://www.dungeonfog.com/news/project-deios/) 
    ([GitHub](https://github.com/dungeonfog))
    ([Discord](https://discordapp.com/invite/Ewtsk7g))- New "Project Deios" map maker tool is written completely in rust, everything we can make opensource is hosted on our github.
