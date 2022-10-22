@@ -81,7 +81,6 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Spoqa](https://www.spoqa.com) - Our POS integration SDK is entirely written in Rust.
 * [TenX](https://tenx.tech) - Building a secure and scalable distributed payments system in Rust.
 
-
 #### Machine Learning | AI
 
 * [Algorithmia](https://algorithmia.com)
