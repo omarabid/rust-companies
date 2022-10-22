@@ -42,7 +42,6 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Solana](https://solana.com) - High performance blockchain, rebuilt for scale.
 * [Wildfish](https://wildfish.com) - Fast processing and importing of cryptocurrency market data.
 
-
 #### Automation | CI/CD
 
 * [Chef](https://www.chef.io)
@@ -105,7 +104,6 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/system76)) - As a Linux-based computer-manufacture, much of our infrastructure and desktop Linux projects are written in Rust.
 * [SmartThings](http://www.smartthings.com)([1](https://www.smartthings.com/how-it-works)) - Memory-safe embedded applications on our SmartThings Hub and supporting services in the cloud.
 * [Star Lab](https://starlab.io) - As an embedded security company, Rust allows us to have confidence in the performance and reliability of our products.
-
 
 #### Internet Service Provider
 
