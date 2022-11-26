@@ -86,6 +86,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/algorithmiaio)) - Rust algorithm development is a first-class citizen of our platform.
 * [Autumn](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) - Machine learning in Rust.
 * [craft.ai](http://craft.ai) - Our core machine learning engine is written in Rust.
+* [Deepgram](https://deepgram.com)
+  ([Github](https://github.com/deepgram),[1](https://blog.deepgram.com/why-deepgram-built-its-platform-in-rust/)) - Speech AI Platform for transcription and understanding.
 * [Faraday](http://faraday.io)([1](https://github.com/faradayio/credentials_to_env)) - Securely transferring credentials.
 * [IamBot](http://iambot.ai) - Our high-performance data acquisition is fully implemented using Rust. Besides that, we are also using Rust for our API endpoints that communicate with internal systems.
 * [Routific](https://routific.com) - High performance route optimization software.
