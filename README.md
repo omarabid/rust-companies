@@ -42,6 +42,9 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Solana](https://solana.com) - High performance blockchain, rebuilt for scale.
 * [Wildfish](https://wildfish.com) - Fast processing and importing of cryptocurrency market data.
 
+#### Aerospace
+
+* [Lechev.space](https://lechev.space) ([GitHub](https://github.com/LechevSpace)) - Building various aerospace-related projects including a Ground station service using Rust.
 
 #### Automation | CI/CD
 
