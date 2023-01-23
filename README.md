@@ -10,6 +10,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 #### Technology
 
 * [360dialog](http://www.360dialog.com) - Most of our service consumers are written with Rust.
+* [Actyx](https://developer.actyx.com) ([GitHub](https://github.com/Actyx)) - Actyx is a peer-to-peer event stream database (a.k.a. reliable durable pub-sub) written completely in Rust
 * [Amazon](https://www.amazon.com)([1](https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help/)) - Here at AWS, we love Rust, too, because it helps AWS write highly performant, safe infrastructure-level networking and other systems software.
 * [Atlassian](https://www.atlassian.com) - We use Rust in a service for analyzing petabytes of source code.
 * [Brave](https://brave.com)
