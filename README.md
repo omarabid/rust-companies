@@ -23,6 +23,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
 * [Fly](https://fly.io)
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
+* [Hybrid Greentech](https://www.hybridgreentech.com/)
+  ([GitHub](https://github.com/Hybrid-Greentech/)) - AI Driven Virtual Power Plant Provider
 * [Materialize](https://materialize.com)
   ([GitHub](https://github.com/MaterializeInc/materialize)) - An engine for incrementally maintaining database views. Materialize core is a single binary written in Rust.
 * [Meta](https://www.facebook.com) ([1](https://github.com/facebookexperimental/eden),[2](https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/)) - Facebook's primary source control system is partially written in Rust.
