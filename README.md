@@ -130,6 +130,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Security | Monitoring
 
+* [1Password](https://1Password.com) ([GitHub](https://github.com/1Password)) - The world's most-loved password manager, powering all of our latest desktop and mobile apps with a single shared Rust codebase.
 * [AppSignal](https://appsignal.com) - Fast and robust monitoring agent for web applications.
 * [Canonical](http://www.canonical.com) - Everything from server monitoring to middleware!
 * [Distil Networks](https://www.distilnetworks.com) - We are using Rust in our low latency bot detection and mitigation platform.
