@@ -47,6 +47,10 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Lechev.space](https://lechev.space) ([GitHub](https://github.com/LechevSpace)) - Building various aerospace-related projects including a Ground station service using Rust.
 
+#### Medical Software
+
+* [Dedalus Healthcare](https://www.dedalus.com/dach/de/) - We use Rust for our 3D visualization of medical image data in our healthcare software products.
+
 #### Automation | CI/CD
 
 * [Chef](https://www.chef.io)
