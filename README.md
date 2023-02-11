@@ -49,7 +49,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Medical Software
 
-* [Dedalus Healthcare](https://www.dedalus.com/dach/de/) - We use Rust for our 3D visualization of medical image data in our healthcare software products.
+* [Dedalus Healthcare](https://www.dedalus.com/dach/de/) - We use Rust for 3D visualization of medical image data in our healthcare software products.
 
 #### Automation | CI/CD
 
