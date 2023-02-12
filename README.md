@@ -17,12 +17,13 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
 * [Discord](https://discordapp.com)
   ([1](https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users), [2](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)) - Communication Platform designed for communities.
-* [DungeonFog](https://www.dungeonfog.com/news/project-deios/) 
+* [DungeonFog](https://www.dungeonfog.com/news/project-deios/)
    ([GitHub](https://github.com/dungeonfog))
    ([Discord](https://discordapp.com/invite/Ewtsk7g))- New "Project Deios" map maker tool is written completely in rust, everything we can make opensource is hosted on our github.
 * [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
 * [Fly](https://fly.io)
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
+* [Google](www.google.com) ([1](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html?m=1)) - In Android 13, about 21% of all new native code (C/C++/Rust) is in Rust. There are approximately 1.5 million total lines of Rust code in Android across new functionality and components such as Keystore2, the new Ultra-wideband (UWB) stack, DNS-over-HTTP3, Android’s Virtualization framework (AVF), and various other components and their open source dependencies. These are low-level components that require a systems language which otherwise would have been implemented in C++.
 * [Materialize](https://materialize.com)
   ([GitHub](https://github.com/MaterializeInc/materialize)) - An engine for incrementally maintaining database views. Materialize core is a single binary written in Rust.
 * [Meta](https://www.facebook.com) ([1](https://github.com/facebookexperimental/eden),[2](https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/)) - Facebook's primary source control system is partially written in Rust.
@@ -76,7 +77,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [OVH](https://www.ovh.com)
   ([1](https://www.ovh.com/world/a2202.paas-logs-management-ovh)) - We used Rust to build a high performance, highly available log management system.
 * [Ceph](https://ceph.io/)([1](https://github.com/ceph/ceph-rust)) Rust bindings for librbd, an interface into the Ceph storage platform.
-  
+
 #### Fintech
 
 * [ANIXE](http://www.anixe.pl) - Building the next generation travel services trading platform in Rust.
@@ -111,12 +112,11 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [SmartThings](http://www.smartthings.com)([1](https://www.smartthings.com/how-it-works)) - Memory-safe embedded applications on our SmartThings Hub and supporting services in the cloud.
 * [Star Lab](https://starlab.io) - As an embedded security company, Rust allows us to have confidence in the performance and reliability of our products.
 
-
 #### Internet Service Provider
 
 * [Starry](https://starry.com) - Re-imagining broadband by engineering a new wireless access network and building an ecosystem of products designed to simplify and improve your connected life.
 * [Yomura Fiber](https://yomurafiber.com) - Rust powers our GPON provisioning and statistic gathering.
-  
+
 #### Consulting
 
 * [Braun Embedded](https://braun-embedded.com/)
@@ -134,18 +134,16 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [AppSignal](https://appsignal.com) - Fast and robust monitoring agent for web applications.
 * [Canonical](http://www.canonical.com) - Everything from server monitoring to middleware!
 * [Distil Networks](https://www.distilnetworks.com) - We are using Rust in our low latency bot detection and mitigation platform.
-* [Firo Solutions](https://firosolutions.com)([1](https://github.com/firosolutions/)) - Firo Solutions is a notification service that notifies the enduser about security vulnerabilities, they parse large amounts of data using rust 
+* [Firo Solutions](https://firosolutions.com)([1](https://github.com/firosolutions/)) - Firo Solutions is a notification service that notifies the enduser about security vulnerabilities, they parse large amounts of data using rust
 * [krypt.co](https://krypt.co)([1](https://github.com/kryptco/ssh-wire), [2](https://github.com/KryptCo/kr/tree/master/pkcs11shim)) - Shared code between iOS and Android for SSH host signature verification as well as a PKCS11 shared library.
 * [Red Sift](https://redsift.com)
   ([GitHub](https://github.com/redsift/ingraind)) - Container monitoring with eBPF.
 * [Shiftleft](https://www.shiftleft.io)([1](http://blog.shiftleft.io)) - ShiftLeft is a Silicon Valley startup employing innovative techniques to bring clarity and rigor to the security space. Our bespoke runtime security agent is written in Rust.
 * [ThreatX](https://threat-x.com) - Threat X Web Application Firewall (WAF) and central analysis engine are written in Rust, facilitating real time analysis of high bandwidth web applications.
-  
+
 #### Governments / NGO
 
 * [Fire and Emergency NZ](https://fireandemergency.nz) - The New Zealand Fire Service is using a custom geolocation search engine, built in rust, that runs on embedded hardware within a fire truck to stream hazard information to a fire crew at an incident.
-
-
 
 ## Contributing
 
