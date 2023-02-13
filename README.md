@@ -51,6 +51,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Automation | CI/CD
 
+* [Bencher](https://bencher.dev) ([GitHub](https://github.com/bencherdev/bencher)) - Bencher is a suite of continuous benchmarking tools designed to catch performance regressions in CI. That is, Bencher allows you to detect and prevent performance regressions before they make it to production.
 * [Chef](https://www.chef.io)
   ([GitHub](https://github.com/chef/delivery-cli)) - Chef lets you develop, deploy and manage infrastructure, run-time environments and applications.
 * [Collective Sense](https://collective-sense.com) - We use Rust to implement data collectors and processors in our network monitoring and security analysis software. Our product needs to be both secure and extremely fast which makes Rust a perfect fit.
