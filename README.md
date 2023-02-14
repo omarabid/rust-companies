@@ -49,6 +49,10 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Lechev.space](https://lechev.space) ([GitHub](https://github.com/LechevSpace)) - Building various aerospace-related projects including a Ground station service using Rust.
 
+#### Public transport
+
+* [Hove](https://hove.com) ([Github](https://github.com/hove-io) - [1](https://github.com/hove-io/transit_model), [2](https://github.com/hove-io/mimirsbrunn), [3](https://github.com/hove-io/loki)) - Navitia API provides ways to query public transport data, including a multi-criteria journey engine
+
 #### Automation | CI/CD
 
 * [Chef](https://www.chef.io)
