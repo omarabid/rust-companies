@@ -13,6 +13,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Actyx](https://developer.actyx.com) ([GitHub](https://github.com/Actyx)) - Actyx is a peer-to-peer event stream database (a.k.a. reliable durable pub-sub) written completely in Rust
 * [Amazon](https://www.amazon.com)([1](https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help/)) - Here at AWS, we love Rust, too, because it helps AWS write highly performant, safe infrastructure-level networking and other systems software.
 * [Atlassian](https://www.atlassian.com) - We use Rust in a service for analyzing petabytes of source code.
+* [Bencher](https://bencher.dev) ([GitHub](https://github.com/bencherdev/bencher)) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 * [Brave](https://brave.com)
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
 * [Discord](https://discordapp.com)
