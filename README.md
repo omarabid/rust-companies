@@ -49,6 +49,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 #### Aerospace
 
 * [Lechev.space](https://lechev.space) ([GitHub](https://github.com/LechevSpace)) - Building various aerospace-related projects including a Ground station service using Rust.
+* [Cryptosat.io](https://cryptosat.io) ([GitHub](https://github.com/cryptosat)) - Building the Trust Infrastructure for Web3, using satellites, in space.
 
 #### Public transport
 
