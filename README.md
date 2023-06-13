@@ -89,6 +89,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [ANIXE](http://www.anixe.pl) - Building the next generation travel services trading platform in Rust.
 * [Braintree](https://www.braintreepayments.com) - Speeding up batch processing and for small command-line utilities.
+* [HyperSwitch](https://hyperswitch.io)
+  ([GitHub](https://github.com/juspay/hyperswitch)) - An Open Source Financial Switch to make Payments fast, reliable & affordable.
 * [Spoqa](https://www.spoqa.com) - Our POS integration SDK is entirely written in Rust.
 * [TenX](https://tenx.tech) - Building a secure and scalable distributed payments system in Rust.
 
