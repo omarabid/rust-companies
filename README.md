@@ -130,6 +130,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Braun Embedded](https://braun-embedded.com/)
   ([GitHub](https://github.com/braun-embedded)) - Provides firmware development services for ARM Cortex-M microcontrollers.
+* [corrode](https://corrode.dev/)
+  ([GitHub](https://github.com/corrode)) - Custom Rust consulting and development based in Germany that puts people first.
 * [Ferrous Systems](https://ferrous-systems.com)
   ([GitHub](https://github.com/ferrous-systems)) - Rust knowledge. Collected.
 * [Immunant](https://www.immunant.com)
