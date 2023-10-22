@@ -60,7 +60,6 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Chef](https://www.chef.io)
   ([GitHub](https://github.com/chef/delivery-cli)) - Chef lets you develop, deploy and manage infrastructure, run-time environments and applications.
-* [Collective Sense](https://collective-sense.com) - We use Rust to implement data collectors and processors in our network monitoring and security analysis software. Our product needs to be both secure and extremely fast which makes Rust a perfect fit.
 * [CoreOS](https://coreos.com) - Tools shipped within the Container Linux distribution as well as internal tooling including documentation transformation and validation.
 * [EVO](https://evo.company) - We have development tools, containerization, monitoring and orchestration systems in Rust.
 * [Gremlin](https://www.gremlin.com) - Safely and efficiently causing controlled chaos.
