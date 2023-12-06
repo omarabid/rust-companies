@@ -140,6 +140,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/immunant)) - Immunant specializes in translation from C to Rust and exposing legacy C/C++ through safe Rust interfaces.
 * [Integer 32](https://www.integer32.com)
   ([GitHub](https://github.com/integer32llc)) - Integer 32 is a consultancy that delivers high-quality Rust code.
+* [Red Iron](https://red-iron.eu/) ([GitHub](https://github.com/orgs/OCamlPro/repositories?q=&type=all&language=rust)) - Red Iron is the Rust division of OCamlPro, a French consultancy specializing in programming languages, formal methods and high reliability software.
 * [Tweede golf](https://tweedegolf.nl)
   ([GitHub](https://github.com/tweedegolf/)) - Rust and Embedded Rust engineers.
 
