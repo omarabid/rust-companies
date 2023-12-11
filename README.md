@@ -118,6 +118,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [49nord](https://49nord.de/rust) - 49nord develops safe and secure Industrial IoT hardware and applications using Rust.
 * [Calyptech](http://calyptech.com) - Used for high performance embedded system components as an alternative to C.
+* [Espressif](https://www.espressif.com/) ([GitHub](https://github.com/esp-rs/)) - Improving performance of embedded and IoT devices with using Rust in esp products.
 * [System76](https://system76.com)
   ([GitHub](https://github.com/system76)) - As a Linux-based computer-manufacture, much of our infrastructure and desktop Linux projects are written in Rust.
 * [SmartThings](http://www.smartthings.com)([1](https://www.smartthings.com/how-it-works)) - Memory-safe embedded applications on our SmartThings Hub and supporting services in the cloud.
