@@ -47,6 +47,10 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Solana](https://solana.com) - High performance blockchain, rebuilt for scale.
 * [Wildfish](https://wildfish.com) - Fast processing and importing of cryptocurrency market data.
 
+
+#### Cryptography
+* [Zama](https://www.zama.ai)([1](https://github.com/zama-ai)) - Open source cryptographic tools that make protecting privacy easy.
+
 #### Aerospace
 
 * [Lechev.space](https://lechev.space) ([GitHub](https://github.com/LechevSpace)) - Building various aerospace-related projects including a Ground station service using Rust.
@@ -84,6 +88,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [OVH](https://www.ovh.com)
   ([1](https://www.ovh.com/world/a2202.paas-logs-management-ovh)) - We used Rust to build a high performance, highly available log management system.
 * [Ceph](https://ceph.io/)([1](https://github.com/ceph/ceph-rust)) Rust bindings for librbd, an interface into the Ceph storage platform.
+* [Tailcall](https://tailcall.run)([1](https://github.com/tailcallhq)) - A cloud native solution to streamline API management across edge, middle, and service layers.
 
 #### Fintech
 
