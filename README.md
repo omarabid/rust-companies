@@ -122,6 +122,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 #### Embedded systems | Hardware | IoT
 
 * [49nord](https://49nord.de/rust) - 49nord develops safe and secure Industrial IoT hardware and applications using Rust.
+* [Artec 3D](https://www.artec3d.com/) - Used for embeded software of 3D scanners.
 * [Calyptech](http://calyptech.com) - Used for high performance embedded system components as an alternative to C.
 * [Espressif](https://www.espressif.com/) ([GitHub](https://github.com/esp-rs/)) - Improving performance of embedded and IoT devices with using Rust in esp products.
 * [System76](https://system76.com)
