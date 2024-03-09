@@ -39,6 +39,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Bitfury](http://bitfury.com)([Exonum](https://exonum.com)) - Exonum is an extensible framework for blockchain projects written in Rust.
 * [Cryptape](http://cryptape.com) - Rust makes our permissioned blockchain, CITA, faster and stronger.
+* [Fedi](https://fedi.xyz) - Fedi builds on [Fedimint](https://github.com/fedimint/fedimint), a module based system for building federated applications on top of Bitcoin.
 * [Libra](https://libra.org)
   ([GitHub](https://github.com/libra/libra)) - A global cryptocurrency built by Facebook.
 * [MaidSafe](http://www.maidsafe.net) - Building a decentralised data and communications network.
