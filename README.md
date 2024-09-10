@@ -47,6 +47,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/paritytech)) - Ethereum Client.
 * [Solana](https://solana.com) - High performance blockchain, rebuilt for scale.
 * [Wildfish](https://wildfish.com) - Fast processing and importing of cryptocurrency market data.
+* [Kraken](https://kraken.com)([1](https://blog.kraken.com/product/engineering/oxidizing-kraken-improving-kraken-infrastructure-using-rust)) - Cryptocurrency exchange, based in the USA.
 
 
 #### Cryptography
