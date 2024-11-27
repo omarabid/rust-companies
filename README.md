@@ -119,7 +119,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### News | Media
 
-* [Amedia](https://www.amedia.no/)  - The personalization platform and the mobile backend is in its entirety written in Rust.
+* [Amedia](https://www.amedia.no/)[Github](https://github.com/amedia)  - Amedia is a foundation-owned media group, and Norway's largest publisher of editorial media. Our personalization platform and the mobile backend is in its entirety written in Rust.
 * [The Daily Edit](https://dailyedit.com) - A news aggregator that combines details from many sources into a single place. Our analysis engine and web backend are written in Rust.
 
 #### Embedded systems | Hardware | IoT
