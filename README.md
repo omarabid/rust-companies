@@ -168,6 +168,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 #### Governments / NGO
 
 * [Fire and Emergency NZ](https://fireandemergency.nz) - The New Zealand Fire Service is using a custom geolocation search engine, built in rust, that runs on embedded hardware within a fire truck to stream hazard information to a fire crew at an incident.
+* [Norsk Tipping](https://norsk-tipping.no) - Norsk Tipping is leveraging Rust in its AWS Lambda functions to handle high-performance, scalable operations. 
 
 ## Contributing
 
