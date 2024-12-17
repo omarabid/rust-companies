@@ -116,6 +116,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Routific](https://routific.com) - High performance route optimization software.
 * [PolySync](https://polysync.io) - Building safety-critical runtime environments & infrastructure for autonomous vehicles.
 * [Snips](https://snips.ai) - AI assistants that are private by design.
+* [Structify](https://structify.ai) - Creating enterprise datasets through scaled research agents.
 
 #### News | Media
 
