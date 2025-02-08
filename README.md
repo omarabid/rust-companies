@@ -109,6 +109,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [craft.ai](http://craft.ai) - Our core machine learning engine is written in Rust.
 * [Deepgram](https://deepgram.com)
   ([Github](https://github.com/deepgram),[1](https://blog.deepgram.com/why-deepgram-built-its-platform-in-rust/)) - Speech AI Platform for transcription and understanding.
+* [Dezgo](https://dezgo.com/) - High-performance parallelized inference server, job distribution server, and API server.
 * [Faraday](http://faraday.io)([1](https://github.com/faradayio/credentials_to_env)) - Securely transferring credentials.
 * [Hugging Face](https://huggingface.co/)
   ([GitHub](https://github.com/huggingface)) - Many components within the Hugging Face ecosystem for AI, including safetensors, tokenizer, and candle, are implemented using Rust.
