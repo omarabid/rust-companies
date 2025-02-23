@@ -87,6 +87,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Cloudflare Workers](https://workers.cloudflare.com/)([1](https://developers.cloudflare.com/workers/tutorials/hello-world-rust)) Deploy serverless code instantly across the globe with Rust support.
 * [Dropbox](https://www.dropbox.com)([1](http://www.wired.com/2016/03/epic-story-dropboxs-exodus-amazon-cloud-empire/), [2](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)) - Optimizing cloud file-storage.
 * [Delimiter](https://www.delimiter.com) - Rust powers our bare metal provisioning system.
+* [Mezmo](https://www.mezmo.com) - Telemetry Pipeline provider using Rust to build high performance processing of streaming logs, metrics and traces.
 * [OVH](https://www.ovh.com)
   ([1](https://www.ovh.com/world/a2202.paas-logs-management-ovh)) - We used Rust to build a high performance, highly available log management system.
 * [Ceph](https://ceph.io/)([1](https://github.com/ceph/ceph-rust)) Rust bindings for librbd, an interface into the Ceph storage platform.
