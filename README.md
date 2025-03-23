@@ -21,6 +21,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [DungeonFog](https://www.dungeonfog.com/news/project-deios/)
    ([GitHub](https://github.com/dungeonfog))
    ([Discord](https://discordapp.com/invite/Ewtsk7g))- New "Project Deios" map maker tool is written completely in rust, everything we can make opensource is hosted on our github.
+* [FifthTry](https://www.fifthtry.com/) ([GitHub](https://github.com/fifthtry)) - Hosting for websites and web apps written in [`fastn`](https://www.fastn.com) language.
 * [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
 * [Fly](https://fly.io)
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
