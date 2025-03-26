@@ -91,6 +91,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([1](https://www.ovh.com/world/a2202.paas-logs-management-ovh)) - We used Rust to build a high performance, highly available log management system.
 * [Ceph](https://ceph.io/)([1](https://github.com/ceph/ceph-rust)) Rust bindings for librbd, an interface into the Ceph storage platform.
 * [Tailcall](https://tailcall.run)([1](https://github.com/tailcallhq)) - A cloud native solution to streamline API management across edge, middle, and service layers.
+* [Vercel](https://vercel.com/) ([GitHub](https://github.com/vercel) - [1](https://vercel.com/blog/vercel-functions-are-now-faster-and-powered-by-rust), [2](https://vercel.com/blog/finishing-turborepos-migration-from-go-to-rust)) - Cloud platform for static sites and serverless functions.
 
 #### Fintech
 
