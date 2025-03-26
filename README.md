@@ -25,7 +25,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
 * [Fly](https://fly.io)
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
-* [Google](www.google.com) ([1](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html?m=1)) - In Android 13, about 21% of all new native code (C/C++/Rust) is in Rust. There are approximately 1.5 million total lines of Rust code in Android across new functionality and components such as Keystore2, the new Ultra-wideband (UWB) stack, DNS-over-HTTP3, Android’s Virtualization framework (AVF), and various other components and their open source dependencies. These are low-level components that require a systems language which otherwise would have been implemented in C++.
+* [Google](https://www.google.com/) ([1](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html?m=1)) - In Android 13, about 21% of all new native code (C/C++/Rust) is in Rust. There are approximately 1.5 million total lines of Rust code in Android across new functionality and components such as Keystore2, the new Ultra-wideband (UWB) stack, DNS-over-HTTP3, Android’s Virtualization framework (AVF), and various other components and their open source dependencies. These are low-level components that require a systems language which otherwise would have been implemented in C++.
 * [Materialize](https://materialize.com)
   ([GitHub](https://github.com/MaterializeInc/materialize)) - An engine for incrementally maintaining database views. Materialize core is a single binary written in Rust.
 * [Huawei](https://www.huawei.com/) - Migrated parts of its codebase to Rust, particularly for telecommunications equipment and infrastructure tools, valuing its performance and security in high-stakes environments and also one of the founding companies of Rust Foundation along with AWS, Google, Microsoft and Mozilla.
@@ -35,6 +35,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/mozilla), [Servo](https://servo.org)) - Building the Servo browser engine, integrating into Firefox, other projects.
 * [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
 * [Stackable](https://stackable.tech/)([1](https://github.com/stackabletech/kafka-operator#about-the-stackable-data-platform)) - Creating a modular open source data platform. Rust powers all our operators to help make popular data applications straightforward to run on Kubernetes.
+* [SurrealDB](https://surrealdb.com/) ([GitHub](https://github.com/surrealdb) - [1](https://surrealdb.com/blog/why-we-are-betting-on-rust)) - Open-source and distributed database.
 * [Svix](https://www.svix.com/) ([GitHub](https://github.com/svix/svix-webhooks)) - The enterprise ready webhooks service
 
 #### Cryptocurrencies
@@ -60,7 +61,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Public transport
 
-* [Hove](https://hove.com) ([Github](https://github.com/hove-io) - [1](https://github.com/hove-io/transit_model), [2](https://github.com/hove-io/mimirsbrunn), [3](https://github.com/hove-io/loki)) - Navitia API provides ways to query public transport data, including a multi-criteria journey engine
+* [Hove](https://hove.com) ([GitHub](https://github.com/hove-io) - [1](https://github.com/hove-io/transit_model), [2](https://github.com/hove-io/mimirsbrunn), [3](https://github.com/hove-io/loki)) - Navitia API provides ways to query public transport data, including a multi-criteria journey engine
 
 #### Automation | CI/CD
 
@@ -109,7 +110,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Autumn](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790) - Machine learning in Rust.
 * [craft.ai](http://craft.ai) - Our core machine learning engine is written in Rust.
 * [Deepgram](https://deepgram.com)
-  ([Github](https://github.com/deepgram),[1](https://blog.deepgram.com/why-deepgram-built-its-platform-in-rust/)) - Speech AI Platform for transcription and understanding.
+  ([GitHub](https://github.com/deepgram),[1](https://blog.deepgram.com/why-deepgram-built-its-platform-in-rust/)) - Speech AI Platform for transcription and understanding.
 * [Faraday](http://faraday.io)([1](https://github.com/faradayio/credentials_to_env)) - Securely transferring credentials.
 * [Hugging Face](https://huggingface.co/)
   ([GitHub](https://github.com/huggingface)) - Many components within the Hugging Face ecosystem for AI, including safetensors, tokenizer, and candle, are implemented using Rust.
@@ -120,7 +121,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### News | Media
 
-* [Amedia](https://www.amedia.no/)[Github](https://github.com/amedia)  - Amedia is a foundation-owned media group, and Norway's largest publisher of editorial media. Our personalization platform and the mobile backend is in its entirety written in Rust.
+* [Amedia](https://www.amedia.no/)[GitHub](https://github.com/amedia)  - Amedia is a foundation-owned media group, and Norway's largest publisher of editorial media. Our personalization platform and the mobile backend is in its entirety written in Rust.
 
 #### Embedded systems | Hardware | IoT
 
