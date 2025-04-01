@@ -35,6 +35,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
   ([GitHub](https://github.com/mozilla), [Servo](https://servo.org)) - Building the Servo browser engine, integrating into Firefox, other projects.
 * [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
 * [Stackable](https://stackable.tech/)([1](https://github.com/stackabletech/kafka-operator#about-the-stackable-data-platform)) - Creating a modular open source data platform. Rust powers all our operators to help make popular data applications straightforward to run on Kubernetes.
+* [Polars](https://pola.rs/) ([GitHub](https://github.com/pola-rs)) - Open-source DataFrame library for data manipulation and analysis. It is implemented in Rust and uses Apache Arrow's columnar memory format for efficient data processing.
 * [SurrealDB](https://surrealdb.com/) ([GitHub](https://github.com/surrealdb) - [1](https://surrealdb.com/blog/why-we-are-betting-on-rust)) - Open-source and distributed database.
 * [Svix](https://www.svix.com/) ([GitHub](https://github.com/svix/svix-webhooks)) - The enterprise ready webhooks service
 
