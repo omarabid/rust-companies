@@ -165,6 +165,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Distil Networks](https://www.distilnetworks.com) - We are using Rust in our low latency bot detection and mitigation platform.
 * [Firo Solutions](https://firosolutions.com)([1](https://github.com/firosolutions/)) - Firo Solutions is a notification service that notifies the enduser about security vulnerabilities, they parse large amounts of data using rust
 * [krypt.co](https://krypt.co)([1](https://github.com/kryptco/ssh-wire), [2](https://github.com/KryptCo/kr/tree/master/pkcs11shim)) - Shared code between iOS and Android for SSH host signature verification as well as a PKCS11 shared library.
+* [Oso](https://www.osohq.com) - Oso Cloud is a managed Authorization-as-a-Service provider. Rust allows us to provide end-to-end Authz checks in <10ms.
 * [Red Sift](https://redsift.com)
   ([GitHub](https://github.com/redsift/ingraind)) - Container monitoring with eBPF.
 * [Shiftleft](https://www.shiftleft.io)([1](http://blog.shiftleft.io)) - ShiftLeft is a Silicon Valley startup employing innovative techniques to bring clarity and rigor to the security space. Our bespoke runtime security agent is written in Rust.
