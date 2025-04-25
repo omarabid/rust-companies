@@ -71,16 +71,17 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [CoreOS](https://coreos.com) - Tools shipped within the Container Linux distribution as well as internal tooling including documentation transformation and validation.
 * [EVO](https://evo.company) - We have development tools, containerization, monitoring and orchestration systems in Rust.
 * [Gremlin](https://www.gremlin.com) - Safely and efficiently causing controlled chaos.
-* [OneSignal](https://onesignal.com)([1](https://onesignal.com/blog/rust-at-onesignal)) - High volume, cross platform push notification delivery.
+* [NativeLink](https://nativelink.com) ([GitHub](https://github.com/tracemachina/nativelink)) - Provides remote caching and remote execution functionality for build systems.
 * [npm](http://www.npmjs.com)
   ([GitHub](https://github.com/npm)) - Replacing C and rewriting performance-critical bottlenecks in the registry service architecture.
+* [OneSignal](https://onesignal.com)([1](https://onesignal.com/blog/rust-at-onesignal)) - High volume, cross platform push notification delivery.
 * [Sandstorm](https://sandstorm.io)([1](https://sandstorm.io/news/2016-08-09-collections-app)) - The backend of our Collections app is written in Rust.
 * [Sentry](https://sentry.io)([1](https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html)) - JavaScript, Java and iOS event processing and the command-line client for the Sentry API.
 * [slowtec](http://www.slowtec.de) - Our robust & reliable automation systems are entirely written in Rust.
-* [VersionEye](https://www.versioneye.com)
-  ([GitHub](https://github.com/VersionEye)) - We are using Rust to implement a command line tool which can identify software dependencies by their SHA values.
 * [tCell](https://www.tcell.io)([1](https://www.tcell.io/2017/06/agents-rust/)) - tCell's agent is built using Rust and runs in the app server as a means to collect data and block attacks.
 * [TreeScale](https://www.treescale.com) - At TreeScale we are implemented distributed PubSub system using Rust and MIO, which gave us 8x performance on for processing and distributing Container Images.
+* [VersionEye](https://www.versioneye.com)
+  ([GitHub](https://github.com/VersionEye)) - We are using Rust to implement a command line tool which can identify software dependencies by their SHA values.
 
 #### Cloud | Hosting
 
