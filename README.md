@@ -122,6 +122,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Routific](https://routific.com) - High performance route optimization software.
 * [PolySync](https://polysync.io) - Building safety-critical runtime environments & infrastructure for autonomous vehicles.
 * [Snips](https://snips.ai) - AI assistants that are private by design.
+* [TensorZero](https://www.tensorzero.com/)
+  ([GitHub](https://github.com/tensorzero/tensorzero)) - Open source LLM gateway, observability, optimization, evaluations, and experimentation &mdash; built with Rust.
 
 #### News | Media
 
