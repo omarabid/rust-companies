@@ -16,6 +16,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Bencher](https://bencher.dev) ([GitHub](https://github.com/bencherdev/bencher)) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 * [Brave](https://brave.com)
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
+* [Code Input](https://codeinput.com) ([GitHub](https://github.com/CodeInputCorp/cli)) - Developer productivity tools around Git.
 * [Discord](https://discordapp.com)
   ([1](https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users), [2](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)) - Communication Platform designed for communities.
 * [DungeonFog](https://www.dungeonfog.com/news/project-deios/)
