@@ -9,7 +9,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 ### AI
 
-* [Rerun.io] (https://rerun.io/) ([GitHub](https://github.com/rerun-io/rerun)) - Open source log handling and visualization for spatial and embodied AI.
+* [Rerun.io](https://rerun.io/)([GitHub](https://github.com/rerun-io/rerun)) - Open source log handling and visualization for spatial and embodied AI.
 
 #### Technology
 
