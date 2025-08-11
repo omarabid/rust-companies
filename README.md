@@ -45,6 +45,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Polars](https://pola.rs/) ([GitHub](https://github.com/pola-rs)) - Open-source DataFrame library for data manipulation and analysis. It is implemented in Rust and uses Apache Arrow's columnar memory format for efficient data processing.
 * [SurrealDB](https://surrealdb.com/) ([GitHub](https://github.com/surrealdb) - [1](https://surrealdb.com/blog/why-we-are-betting-on-rust)) - Open-source and distributed database.
 * [Svix](https://www.svix.com/) ([GitHub](https://github.com/svix/svix-webhooks)) - The enterprise ready webhooks service
+* [Zed.dev](https://zed.dev/) ([Github](https://github.com/zed-industries/zed)) - Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.
 
 #### Cryptocurrencies
 
