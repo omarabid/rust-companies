@@ -128,6 +128,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Hugging Face](https://huggingface.co/)
   ([GitHub](https://github.com/huggingface)) - Many components within the Hugging Face ecosystem for AI, including safetensors, tokenizer, and candle, are implemented using Rust.
 * [IamBot](http://iambot.ai) - Our high-performance data acquisition is fully implemented using Rust. Besides that, we are also using Rust for our API endpoints that communicate with internal systems.
+* [LanceDB](https://lancedb.com)
+  ([GitHub](https://github.com/lancedb)) - Multimodal data platform built in Rust.
 * [Routific](https://routific.com) - High performance route optimization software.
 * [PolySync](https://polysync.io) - Building safety-critical runtime environments & infrastructure for autonomous vehicles.
 * [Snips](https://snips.ai) - AI assistants that are private by design.
