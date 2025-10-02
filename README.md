@@ -177,8 +177,8 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [1Password](https://1Password.com) ([GitHub](https://github.com/1Password)) - The world's most-loved password manager, powering all of our latest desktop and mobile apps with a single shared Rust codebase.
 * [AppSignal](https://appsignal.com) - Fast and robust monitoring agent for web applications.
 * [Canonical](http://www.canonical.com) - Everything from server monitoring to middleware!
-* [Coralogix](https://coralogix.com) - Observability platform.
-* [Datadog](https://www.datadoghq.com) - Observability and security platform for cloud applications.
+* [Coralogix](https://coralogix.com)([Github](https://github.com/coralogix)) - Observability platform.
+* [Datadog](https://www.datadoghq.com)([Github](https://github.com/datadog)) - Observability and security platform for cloud applications.
 * [Distil Networks](https://www.distilnetworks.com) - We are using Rust in our low latency bot detection and mitigation platform.
 * [Firo Solutions](https://firosolutions.com)([1](https://github.com/firosolutions/)) - Firo Solutions is a notification service that notifies the enduser about security vulnerabilities, they parse large amounts of data using rust
 * [krypt.co](https://krypt.co)([1](https://github.com/kryptco/ssh-wire), [2](https://github.com/KryptCo/kr/tree/master/pkcs11shim)) - Shared code between iOS and Android for SSH host signature verification as well as a PKCS11 shared library.
