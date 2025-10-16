@@ -21,7 +21,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Brave](https://brave.com)
   ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
 * [Code Input](https://codeinput.com) ([GitHub](https://github.com/CodeInputCorp/cli)) - Developer productivity tools around Git.
-* [Canonical](https://canonical.com/) ([1](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995), [2](https://discourse.ubuntu.com/t/adopting-sudo-rs-by-default-in-ubuntu-25-10/60583)) - Canonical is a UK-based software company best known for developing and maintaining Ubuntu, a popular open-source Linux distribution. 
+* [Canonical](https://canonical.com/) ([1](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995), [2](https://discourse.ubuntu.com/t/adopting-sudo-rs-by-default-in-ubuntu-25-10/60583)) - Canonical is a UK-based software company best known for developing and maintaining Ubuntu, a popular open-source Linux distribution.
 * [Discord](https://discordapp.com)
   ([1](https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users), [2](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)) - Communication Platform designed for communities.
 * [DungeonFog](https://www.dungeonfog.com/news/project-deios/)
@@ -43,6 +43,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
 * [Stackable](https://stackable.tech/)([1](https://github.com/stackabletech/kafka-operator#about-the-stackable-data-platform)) - Creating a modular open source data platform. Rust powers all our operators to help make popular data applications straightforward to run on Kubernetes.
 * [Polars](https://pola.rs/) ([GitHub](https://github.com/pola-rs)) - Open-source DataFrame library for data manipulation and analysis. It is implemented in Rust and uses Apache Arrow's columnar memory format for efficient data processing.
+* [Searchcraft](https://searchcraft.io/) ([GitHub](https://github.com/searchcraft-inc) - [1](https://www.searchcraft.io/why-we-built-searchcraft)) - Search engine built from the ground up in Rust.
 * [SurrealDB](https://surrealdb.com/) ([GitHub](https://github.com/surrealdb) - [1](https://surrealdb.com/blog/why-we-are-betting-on-rust)) - Open-source and distributed database.
 * [Svix](https://www.svix.com/) ([GitHub](https://github.com/svix/svix-webhooks)) - The enterprise ready webhooks service
 * [Zed.dev](https://zed.dev/) ([Github](https://github.com/zed-industries/zed)) - Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.
@@ -67,7 +68,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 * [Cryptosat.io](https://cryptosat.io) ([GitHub](https://github.com/cryptosat)) - Building the Trust Infrastructure for Web3, using satellites, in space.
 * [Lechev.space](https://lechev.space) ([GitHub](https://github.com/LechevSpace)) - Building various aerospace-related projects including a Ground station service using Rust.
-* [K2Sapce](https://www.k2space.com/) - K2 Space maximizes the amount of power, mass and volume that can be deployed with today's launch vehicle. 
+* [K2Sapce](https://www.k2space.com/) - K2 Space maximizes the amount of power, mass and volume that can be deployed with today's launch vehicle.
 
 #### Public transport
 
