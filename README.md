@@ -29,6 +29,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
    ([Discord](https://discordapp.com/invite/Ewtsk7g))- New "Project Deios" map maker tool is written completely in rust, everything we can make opensource is hosted on our github.
 * [FifthTry](https://www.fifthtry.com/) ([GitHub](https://github.com/fifthtry)) - Hosting for websites and web apps written in [`fastn`](https://www.fastn.com) language.
 * [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
+* [First Point](https://firstpoint.com.tr) - Backend microservices and blockchain infrastructure built with Rust.
 * [Fly](https://fly.io)
   ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
 * [Google](https://www.google.com/) ([1](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html?m=1)) - In Android 13, about 21% of all new native code (C/C++/Rust) is in Rust. There are approximately 1.5 million total lines of Rust code in Android across new functionality and components such as Keystore2, the new Ultra-wideband (UWB) stack, DNS-over-HTTP3, Android’s Virtualization framework (AVF), and various other components and their open source dependencies. These are low-level components that require a systems language which otherwise would have been implemented in C++.
