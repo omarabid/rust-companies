@@ -159,6 +159,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 #### Consulting
 
+* [atvari](https://atvari.eu/) ([GitHub](https://github.com/atvari-eu)) - Software & Cloud Engineering Consulting with ❤️ for Rust 🦀, Nix / NixOS ❄️ & Open Source 🌐
 * [Braun Embedded](https://braun-embedded.com/)
   ([GitHub](https://github.com/braun-embedded)) - Provides firmware development services for ARM Cortex-M microcontrollers.
 * [corrode](https://corrode.dev/)
