@@ -83,6 +83,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 * [EVO](https://evo.company) - We have development tools, containerization, monitoring and orchestration systems in Rust.
 * [Gremlin](https://www.gremlin.com) - Safely and efficiently causing controlled chaos.
 * [NativeLink](https://nativelink.com) ([GitHub](https://github.com/tracemachina/nativelink)) - Provides remote caching and remote execution functionality for build systems.
+* [Neblex](https://www.neblex.com/integration-fabric) ([GitHub](https://github.com/neblexhq)) - AI-native integration and automation platform. The Neblex Worker, the on-premises runtime that runs flows and AI agents inside customer networks, is a single Rust binary with no runtime dependencies.
 * [npm](http://www.npmjs.com)
   ([GitHub](https://github.com/npm)) - Replacing C and rewriting performance-critical bottlenecks in the registry service architecture.
 * [OneSignal](https://onesignal.com)([1](https://onesignal.com/blog/rust-at-onesignal)) - High volume, cross platform push notification delivery.
