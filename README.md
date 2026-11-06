@@ -9,6 +9,7 @@ Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
 
 ### AI
 
+* [Cerulion](https://cerulion.com) ([GitHub](https://github.com/cerulion-inc/cerulion)) - Open source robot runtime written in Rust. A 1 MiB round trip takes 4.08 µs between native nodes, against 10,952 µs for stock ROS 2 Jazzy (medians, one Linux x86-64 desktop, 100 Hz, Sep 2026), and supported native recordings re-run against new code in CI.
 * [Rerun.io](https://rerun.io/)([GitHub](https://github.com/rerun-io/rerun)) - Open source log handling and visualization for spatial and embodied AI.
 
 #### Technology
